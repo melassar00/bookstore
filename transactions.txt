@@ -1,0 +1,28 @@
+200123202320, 33214, "Against All Odds - Danielle Steele", 18.99, 7, 10, 119.64, 01/23/20, 11:20:30 PM EST
+200123202320, 12123, "X - Sue Grafton", 9.99, 9, 10, 80.92, 01/23/20, 11:20:30 PM EST
+200123202320, 67534, "The Black Book - James Patterson", 15.99, 4, 0, 63.96, 01/23/20, 11:20:30 PM EST
+200125201230, 33214, "Against All Odds - Danielle Steele", 18.99, 4, 0, 75.96, 01/25/20, 12:30:51 PM EST
+200125201230, 12123, "X - Sue Grafton", 9.99, 6, 10, 53.95, 01/25/20, 12:30:51 PM EST
+200125201532, 33214, "Against All Odds - Danielle Steele", 18.99, 6, 10, 102.55, 01/25/20, 03:32:34 PM EST
+200125201532, 44556, "The Fix - David Baldacci", 12.99, 8, 10, 93.53, 01/25/20, 03:32:34 PM EST
+200125201532, 12123, "X - Sue Grafton", 9.99, 1, 0, 9.99, 01/25/20, 03:32:34 PM EST
+200125201622, 33214, "Against All Odds - Danielle Steele", 18.99, 4, 0, 75.96, 01/25/20, 04:22:39 PM EST
+200125201622, 12123, "X - Sue Grafton", 9.99, 5, 10, 44.95, 01/25/20, 04:22:39 PM EST
+200125201622, 23411, "Chaos - Patricia Cornwell", 10.75, 3, 0, 32.25, 01/25/20, 04:22:39 PM EST
+200126201217, 33214, "Against All Odds - Danielle Steele", 18.99, 1, 0, 18.99, 01/26/20, 12:17:54 PM EST
+200126201217, 12123, "X - Sue Grafton", 9.99, 8, 10, 71.93, 01/26/20, 12:17:54 PM EST
+200126201221, 33214, "Against All Odds - Danielle Steele", 18.99, 1, 0, 18.99, 01/26/20, 12:21:03 PM EST
+200126201221, 12123, "X - Sue Grafton", 9.99, 8, 10, 71.93, 01/26/20, 12:21:03 PM EST
+200126201223, 33214, "Against All Odds - Danielle Steele", 18.99, 1, 0, 18.99, 01/26/20, 12:23:03 PM EST
+200126201223, 12123, "X - Sue Grafton", 9.99, 8, 10, 71.93, 01/26/20, 12:23:03 PM EST
+200126201224, 33214, "Against All Odds - Danielle Steele", 18.99, 1, 0, 18.99, 01/26/20, 12:24:51 PM EST
+200126201224, 12123, "X - Sue Grafton", 9.99, 8, 10, 71.93, 01/26/20, 12:24:51 PM EST
+200126201317, 33214,  "Against All Odds - Danielle Steele", 18.99, 2, 0, 37.98, 01/26/20, 01:17:26 PM EST
+200126201653, 33214, "Against All Odds - Danielle Steele", 18.99, 2, 0, 37.98, 01/26/20, 04:53:23 PM EST
+200126201653, 1111, "Top Secret Twenty One - Janet Evanovich", 8.99, 4, 0, 35.96, 01/26/20, 04:53:23 PM EST
+200126201754, 33214, "Against All Odds - Danielle Steele", 18.99, 4, 0, 75.96, 01/26/20, 05:54:06 PM EST
+200126201754, 12123, "X - Sue Grafton", 9.99, 100, 15, 849.15, 01/26/20, 05:54:06 PM EST
+200126201922, 33214, "Against All Odds - Danielle Steele", 18.99, 2, 0, 37.98, 01/26/20, 07:22:50 PM EST
+200126201927, 33214, "Against All Odds - Danielle Steele", 18.99, 4, 0, 75.96, 01/26/20, 07:27:44 PM EST
+200126201927, 12123, "X - Sue Grafton", 9.99, 7, 10, 62.94, 01/26/20, 07:27:44 PM EST
+200126201927, 44556, "The Fix - David Baldacci", 12.99, 12, 15, 132.50, 01/26/20, 07:27:44 PM EST
